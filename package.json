@@ -6,7 +6,7 @@
     "start": "node --inspect=9229 ./bin/www"
   },
   "dependencies": {
-    "config": "^3.2.2",
+    "config": "^3.3.8",
     "cookie-parser": "~1.4.3",
     "cors": "^2.8.5",
     "debug": "~2.6.9",
